@@ -1,4 +1,4 @@
 baseURL = 'https://nicolsan.github.io/hugo-quickstart/'
 languageCode = 'en-us'
 title = 'my site'
-theme = 'ananke'
+themes = 'ananke'
